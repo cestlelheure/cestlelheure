@@ -111,7 +111,7 @@ graph LR
     A --> C[🎵 Music]
     A --> D[🎬 Video Editing]
     A --> E[🎨 Graphic Design]
-    B --> F[Strategy Games]
+    B --> F[Rhythm  Games]
     B --> G[Team-based Games]
     C --> H[Diverse Genres]
     D --> I[Creative Content]
