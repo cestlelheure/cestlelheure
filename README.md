@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Andy PHAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Andy PHAN
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+in+Training+%F0%9F%9A%80;Problem+Solver+%26+Tech+Enthusiast+%F0%9F%92%A1;Game+Developer+%26+UI%2FUX+Designer+%F0%9F%8E%AE" alt="Typing SVG" />
@@ -18,9 +18,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
 
 ---
 
@@ -49,7 +46,7 @@
 
 </td>
 <td width="40%">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="100%"/>
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Coding GIF" width="250%"/>
 </td>
 </tr>
 </table>
@@ -210,8 +207,6 @@ graph TB
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cestlelheure&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=4ECDC4&dates=c9d1d9" alt="GitHub Streak" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=cestlelheure&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
@@ -219,6 +214,7 @@ graph TB
 ---
 
 ## 🌍 **Global Communication**
+
 
 <div align="center">
 <table>
@@ -243,9 +239,12 @@ graph TB
 
 </div>
 
+
 ---
 
+
 ## 🎓 **Academic Journey**
+
 
 <div align="center">
 
@@ -339,7 +338,8 @@ graph TB
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,27,30&height=150&section=footer&text=Thanks%20for%20visiting%20my%20digital%20space!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+
   
   <br>
   
