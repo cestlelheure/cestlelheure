@@ -114,82 +114,72 @@
 
 ---
 
-## 🎨 **Project Showcase**
 
-<div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#00D4FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#00D4FF', 'lineColor': '#FF6B6B', 'secondaryColor': '#4ECDC4', 'tertiaryColor': '#95e1d3', 'background': '#0D1117', 'secondaryTextColor': '#fff', 'tertiaryTextColor': '#fff'}}}%%
-graph TB
-    A[🎯 Andy's Projects] --> B[🎮 Gaming Projects]
-    A --> C[💼 Professional Apps]
-    A --> D[🌐 Web Development]
-    A --> E[🎓 Academic Projects]
-    
-    B --> F[🎲 Yams Game<br/>C# • WinForms • .NET]
-    B --> G[🎯 Serious Audit Game<br/>Python • Game Design]
-    
-    C --> H[💾 Database Application<br/>C# • SQLite • WinForms]
-    
-    D --> I[🌐 Portfolio Website<br/>HTML5 • CSS3 • JavaScript]
-    
-    E --> J[🏫 IUT Digital Model<br/>3D Modeling • Team Collaboration]
-    
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px
-    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px
-    style C fill:#FFD93D,stroke:#fff,stroke-width:2px
-    style D fill:#6BCF7F,stroke:#fff,stroke-width:2px
-    style E fill:#A8E6CF,stroke:#fff,stroke-width:2px
-```
-
-### 📊 **Project Status Dashboard**
+## 💼 **Completed Projects**
 
 <table align="center">
 <tr>
-<th>🚀 Project</th>
-<th>⚡ Tech Stack</th>
-<th>📅 Timeline</th>
-<th>📊 Progress</th>
-<th>🎯 Status</th>
+<td width="50%">
+
+### 🚒 **Fire Station Management**
+```csharp
+// Completed project
+class FireStationApp {
+  string tech = "C# .NET";
+  bool completed = true;
+  string type = "Full application";
+}
+```
+
+</td>
+
+<td width="50%">
+
+### 🎲 **Dungeons & Dragons**
+```java
+// OOP Game
+public class DnDGame {
+  String tech = "Java";
+  boolean completed = true;
+  String concept = "Advanced OOP";
+}
+```
+
+</td>
 </tr>
+
 <tr>
-<td><strong>🎲 Yams Game</strong></td>
-<td><code>C# • WinForms • .NET</code></td>
-<td>Nov-Dec 2024</td>
-<td><img src="https://progress-bar.dev/100/?scale=100&title=Done&width=120&color=28a745" /></td>
-<td>✅ <strong>Completed</strong></td>
-</tr>
-<tr>
-<td><strong>🎯 Serious Audit Game</strong></td>
-<td><code>Python • Game Design</code></td>
-<td>Sept 2024 - Present</td>
-<td><img src="https://progress-bar.dev/70/?scale=100&title=Active&width=120&color=007bff" /></td>
-<td>🚧 <strong>In Progress</strong></td>
-</tr>
-<tr>
-<td><strong>🏫 IUT Digital Model</strong></td>
-<td><code>3D Modeling • Team Work</code></td>
-<td>2 months</td>
-<td><img src="https://progress-bar.dev/100/?scale=100&title=Done&width=120&color=28a745" /></td>
-<td>✅ <strong>Completed</strong></td>
-</tr>
-<tr>
-<td><strong>💼 Database App</strong></td>
-<td><code>C# • SQLite • WinForms</code></td>
-<td>1 month</td>
-<td><img src="https://progress-bar.dev/100/?scale=100&title=Done&width=120&color=28a745" /></td>
-<td>✅ <strong>Completed</strong></td>
-</tr>
-<tr>
-<td><strong>🌐 Portfolio Website</strong></td>
-<td><code>HTML5 • CSS3 • JavaScript</code></td>
-<td>Q1 2025</td>
-<td><img src="https://progress-bar.dev/15/?scale=100&title=Planning&width=120&color=6c757d" /></td>
-<td>📋 <strong>Planned</strong></td>
+<td width="50%">
+
+### 🎯 **Yam's Game**
+```javascript
+// Interactive web interface
+const yamsGame = {
+  tech: ["C#", "HTML/CSS", "JS"],
+  api: true,
+  interface: "Responsive web"
+}
+```
+
+</td>
+
+<td width="50%">
+
+### 🌐 **Network Simulation**
+```c
+// Network layer
+struct NetworkSim {
+  char* language = "C";
+  int layer = 3;
+  char* protocol = "TCP/IP";
+}
+```
+
+</td>
+
 </tr>
 </table>
 
-</div>
 
 ---
 
