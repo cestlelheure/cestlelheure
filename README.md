@@ -39,14 +39,20 @@
   seeking: "Internship Opportunity"
   period: "April-June 2025"
   interests: ["Full Stack Dev", "System Architecture", "Game Dev", "UI/UX"]
+
+🎨 Interests:
+  - "Technology & digital innovations"
+  - "Video games (strategy, management, teamwork)"
+  - "Multimedia creation (video editing, graphic design)"
+  - "Music (varied culture)
   
 💫 Personal Motto:
   quote: "Code with passion, debug with patience"
 ```
 
 </td>
-<td width="40%">
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Coding GIF" width="250%"/>
+<td width="80%">
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Coding GIF" width="100%"/>
 </td>
 </tr>
 </table>
