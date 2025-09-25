@@ -257,7 +257,7 @@ struct NetworkSim {
 ## 💫 **Let's Connect & Collaborate**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="250"> 
   <br>
   <h3>🌟 Ready to build something amazing together? 🌟</h3>
   
