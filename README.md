@@ -95,19 +95,30 @@
 ---
 
 
-## 💼 **Completed Projects**
+## 🚀 **Project Portfolio**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Technical+Achievements+💻;Innovation+%26+Creativity+🎨;Elegant+%26+Functional+Code+⚡" alt="Projects Typing SVG" />
+</div>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🚒 **Fire Station Management**
+### 🚒 **Fire Station Management System**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=00D4FF" />
+</div>
+
 ```csharp
-// Completed project
 class FireStationApp {
-  string tech = "C# .NET";
-  bool completed = true;
-  string type = "Full application";
+  string framework = "C# .NET WPF";
+  string[] features = {
+    "Intervention management",
+    "Modern user interface",
+    "Integrated database"
+  };
+  bool production_ready = true;
 }
 ```
 
@@ -115,13 +126,20 @@ class FireStationApp {
 
 <td width="50%">
 
-### 🎲 **Dungeons & Dragons**
+### 🎲 **Dungeons & Dragons Adventure**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=FF6B6B" />
+</div>
+
 ```java
-// OOP Game
-public class DnDGame {
-  String tech = "Java";
-  boolean completed = true;
-  String concept = "Advanced OOP";
+public class DnDGameEngine {
+  String paradigm = "Advanced OOP";
+  String[] mechanics = {
+    "Combat system",
+    "Character management",
+    "Procedural generation"
+  };
+  boolean innovative = true;
 }
 ```
 
@@ -131,13 +149,21 @@ public class DnDGame {
 <tr>
 <td width="50%">
 
-### 🎯 **Yam's Game**
+### 🎯 **Yam's Gaming Platform**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=4ECDC4" />
+</div>
+
 ```javascript
-// Interactive web interface
-const yamsGame = {
-  tech: ["C#", "HTML/CSS", "JS"],
-  api: true,
-  interface: "Responsive web"
+const yamsGamePlatform = {
+  backend: "C# Web API",
+  frontend: ["HTML5", "CSS3", "JavaScript"],
+  features: {
+    multiplayer: true,
+    responsive: true,
+    realtime: "WebSocket integration"
+  },
+  deployment: "Full-stack web app"
 }
 ```
 
@@ -145,14 +171,18 @@ const yamsGame = {
 
 <td width="50%">
 
-### 🌐 **Network Simulation**
+### 🌐 **Network Layer Simulation**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=FFD700" />
+</div>
+
 ```c
-// Network layer
-struct NetworkSim {
-  char* language = "C";
-  int layer = 3;
-  char* protocol = "TCP/IP";
-}
+typedef struct NetworkSimulator {
+  char* language;        // "C"
+  int layer;            // 3 (Network Layer)
+  char* protocols[];    // {"TCP", "UDP", "IP"}
+  bool packet_analysis; // true
+} NetSim;
 ```
 
 </td>
