@@ -40,10 +40,7 @@
   period: "April-June 2025"
 
 🎨 Interests:
-  interests: ["Technology & digital innovations",
-  "Video games (strategy, management, teamwork)",
-  "Multimedia creation (video editing, graphic design)",
-  "Music (varied culture)]
+  interests: ["Technology & digital innovations", "Video games", "Multimedia creation", "Music"]
   
 💫 Personal Motto:
   quote: "Code with passion, debug with patience"
