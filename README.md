@@ -94,125 +94,6 @@
 
 ---
 
-
-## 🚀 **Project Portfolio**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Technical+Achievements+💻;Innovation+%26+Creativity+🎨;Elegant+%26+Functional+Code+⚡" alt="Projects Typing SVG" />
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🚒 **Fire Station Management System**
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=00D4FF" />
-</div>
-
-```csharp
-class FireStationApp {
-  string framework = "C# .NET WPF";
-  string[] features = {
-    "Intervention management",
-    "Modern user interface",
-    "Integrated database"
-  };
-  bool production_ready = true;
-}
-```
-
-</td>
-
-<td width="50%">
-
-### 🎲 **Dungeons & Dragons Adventure**
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=FF6B6B" />
-</div>
-
-```java
-public class DnDGameEngine {
-  String paradigm = "Advanced OOP";
-  String[] mechanics = {
-    "Combat system",
-    "Character management",
-    "Procedural generation"
-  };
-  boolean innovative = true;
-}
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎯 **Yam's Gaming Platform**
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=4ECDC4" />
-</div>
-
-```javascript
-const yamsGamePlatform = {
-  backend: "C# Web API",
-  frontend: ["HTML5", "CSS3", "JavaScript"],
-  features: {
-    multiplayer: true,
-    responsive: true,
-    realtime: "WebSocket integration"
-  },
-  deployment: "Full-stack web app"
-}
-```
-
-</td>
-
-<td width="50%">
-
-### 🌐 **Network Layer Simulation**
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-✅_Completed-success?style=for-the-badge&labelColor=000&color=FFD700" />
-</div>
-
-```c
-typedef struct NetworkSimulator {
-  char* language;        // "C"
-  int layer;            // 3 (Network Layer)
-  char* protocols[];    // {"TCP", "UDP", "IP"}
-  bool packet_analysis; // true
-} NetSim;
-```
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cestlelheure&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&card_width=400" alt="GitHub Stats" />
-</td>
-<td align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cestlelheure&layout=donut&hide_border=true&title_color=00D4FF&text_color=FF6B6B&bg_color=0d1117&card_width=400" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cestlelheure&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🌍 **Global Communication**
 
 
@@ -282,48 +163,15 @@ typedef struct NetworkSimulator {
 ---
 
 
-## 💫 **Let's Connect & Collaborate**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="250"> 
-  <br>
-  <h3>🌟 Ready to build something amazing together? 🌟</h3>
-  
-  <table>
-  <tr>
-  <td align="center" width="33%">
-    <a href="http://linkedin.com/in/andy-phan-293783385">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
-    </a>
-    <br><strong>Professional Network</strong>
-    <br>Career opportunities & collaborations
-  </td>
-  <td align="center" width="33%">
-    <a href="mailto:andy.phan@etu.unistra.fr">
-      <img src="https://img.shields.io/badge/Email-Get_In_Touch-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
-    </a>
-    <br><strong>Direct Contact</strong>
-    <br>Projects, questions & discussions
-  </td>
-  <td align="center" width="33%">
-    <a href="https://github.com/cestlelheure">
-      <img src="https://img.shields.io/badge/GitHub-Follow_Journey-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=000" />
-    </a>
-    <br><strong>Code & Projects</strong>
-    <br>Follow my development journey
-  </td>
-  </tr>
-  </table>
-  
-  <br>
-  
+  <div align="center">
+    
   ### 💭 **Talk to me about:**
   
   <p>
     <img src="https://img.shields.io/badge/C%23-Game_Development-239120?style=flat-square&logo=c-sharp" />
     <img src="https://img.shields.io/badge/Python-AI_Projects-3776AB?style=flat-square&logo=python" />
     <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-61DAFB?style=flat-square&logo=react" />
-    <img src="https://img.shields.io/badge/UI/UX-Design_Systems-FF61F6?style=flat-square&logo=figma" />
     <img src="https://img.shields.io/badge/Career-Internship_2025-FF6B6B?style=flat-square&logo=handshake" />
   </p>
   
