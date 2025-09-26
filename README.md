@@ -50,7 +50,7 @@
 
 </td>
 <td width="80%">
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Coding GIF" width="100%"/>
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Coding GIF" width="350"/>
 </td>
 </tr>
 </table>
