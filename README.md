@@ -1,8 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Andy PHAN
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+in+Training+%F0%9F%9A%80;Problem+Solver+%26+Tech+Enthusiast+%F0%9F%92%A1;Game+Developer+%26+UI%2FUX+Designer+%F0%9F%8E%AE" alt="Typing SVG" />
-</div>
+![Banner](banner.png)
 
 <div align="center">
   <a href="http://linkedin.com/in/andy-phan-293783385">
