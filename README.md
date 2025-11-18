@@ -94,47 +94,6 @@
 
 ---
 
-
-## 🎓 **Academic Journey**
-
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <h3>🏫 <strong>Lycée Jean-Jacques Henner</strong></h3>
-  <p><strong>2021 - 2024</strong></p>
-  <img src="https://img.shields.io/badge/Diploma-General_Baccalaureate-4ECDC4?style=for-the-badge&labelColor=000" />
-  <br><br>
-  <strong>🎯 Specializations:</strong><br>
-  • Computer Science (NSI)<br>
-  • Mathematics<br><br>
-  <strong>🏆 Result:</strong> Mention Assez Bien
-</td>
-<td align="center" width="50%">
-  <h3>🏛️ <strong>IUT Robert Schuman</strong></h3>
-  <p><strong>2024 - Present</strong></p>
-  <img src="https://img.shields.io/badge/Program-BUT_Computer_Science-00D4FF?style=for-the-badge&labelColor=000" />
-  <br><br>
-  <strong>📚 Current Year:</strong> 2nd Year<br>
-  <strong>🚀 Focus:</strong> Software Development<br><br>
-  <strong>🎯 Location:</strong> Illkirch, France
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Timeline-2021_→_Present-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/Next_Goal-Internship_2025-FFD700?style=for-the-badge&logo=target&logoColor=black&labelColor=000" />
-</div>
-
-</div>
-
----
-
-
-
   <div align="center">
     
   ### 💭 **Talk to me about:**
@@ -145,8 +104,10 @@
     <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-61DAFB?style=flat-square&logo=react" />
     <img src="https://img.shields.io/badge/Career-Internship_2025-FF6B6B?style=flat-square&logo=handshake" />
   </p>
+
+  <img src="https://osu-sig.vercel.app/card?user=Sus__&mode=std&lang=en&animation=true&hue=360&mini=true" alt="osu! profile card" />
   
-  <br>
+  <br><br>
   
   **"The best code is not just functional, but beautiful, readable, and inspiring."**
   
