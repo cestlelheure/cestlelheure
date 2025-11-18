@@ -57,33 +57,8 @@
 
 <div align="center">
 
-### ⚡ **Core Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000" />
-</p>
-
-### 🌐 **Web Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000" />
-</p>
-
-### 🗄️ **Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000" />
-</p>
-
-### 🔧 **Version Control & Collaboration**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=000" />
+  <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,js,ts,html,css,php,sqlite,mysql,git,github,gitlab" />
 </p>
 
 </div>
@@ -173,9 +148,11 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=cestlelheure&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=000" alt="Profile views" />
+  **"The best code is not just functional, but beautiful, readable, and inspiring."**
   
-  <br><br>
+  <br>
+  
+  <img src="https://media.tenor.com/0BITuYr2z0wAAAAM/kikuri-hiroi-bocchi.gif" width="200" alt="Kikuri Bocchi"/>
 
 </div>
 
@@ -183,23 +160,11 @@
 
 <div align="center">
 
+### 👀 **Profile Views**
 
-  
   <br>
-  
-  **"The best code is not just functional, but beautiful, readable, and inspiring."**
-  
-  <br>
-  
-  <img src="https://media.tenor.com/0BITuYr2z0wAAAAM/kikuri-hiroi-bocchi.gif" width="200" alt="Kikuri Bocchi"/>
-  
-  <br><br>
-  
-  <h3>🌟 Keep Coding, Keep Growing! 🌟</h3>
-  
-  ⭐ **Star the repos that inspire you!** ⭐  
-  🤝 **Let's build the future together!** 🤝  
-  💡 **Innovation starts with collaboration!** 💡
+
+  <img src="https://count.getloli.com/@cestlelheure?name=cestlelheure&theme=booru-yuyuyui&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile Views" />
   
   <br>
   
