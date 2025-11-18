@@ -14,6 +14,29 @@
 
 <br>
 
+---
+
+## 📌 **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/cestlelheure/Caserne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cestlelheure&repo=Caserne&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/cestlelheure/DOOnjons-et-Dragons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cestlelheure&repo=DOOnjons-et-Dragons&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/cestlelheure/jeu_yams">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cestlelheure&repo=jeu_yams&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/cestlelheure/Simulation-Reseau">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cestlelheure&repo=Simulation-Reseau&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+</a>
+
+</div>
 
 ---
 
