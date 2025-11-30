@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="http://linkedin.com/in/andy-phan-293783385">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn" />
   </a>
   <a href="mailto:andy.phan@etu.unistra.fr">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" alt="Email" />
   </a>
-  <a href="https://github.com/cestlelheure">
-    <img src="https://img.shields.io/github/followers/cestlelheure?style=for-the-badge&logo=github&color=4ECDC4&labelColor=000" alt="GitHub followers" />
+  <a href="https://github. com/cestlelheure">
+    <img src="https://img.shields. io/github/followers/cestlelheure? style=for-the-badge&logo=github&color=4ECDC4&labelColor=000" alt="GitHub followers" />
   </a>
 </div>
 
@@ -21,9 +21,9 @@
 <div align="center">
 
 <a href="https://github.com/cestlelheure/Caserne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cestlelheure&repo=Caserne&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats.vercel. app/api/pin/?username=cestlelheure&repo=Caserne&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/cestlelheure/DOOnjons-et-Dragons">
+<a href="https://github. com/cestlelheure/DOOnjons-et-Dragons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cestlelheure&repo=DOOnjons-et-Dragons&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
 </a>
 
@@ -77,8 +77,24 @@
 
 <div align="center">
 
+### 💻 **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,js,ts,html,css,php,sqlite,mysql,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,js,ts" />
+</p>
+
+### 🌐 **Web Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
+</p>
+
+### 🗄️ **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+### 🔧 **Version Control**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
 </div>
@@ -97,7 +113,7 @@
   <br>Perfect fluency in all contexts
 </td>
 <td align="center" width="200">
-  <img src="https://img.shields.io/badge/🇻🇳_Vietnamese-Fluent-important?style=for-the-badge&labelColor=000&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/🇻🇳_Vietnamese-Fluent-important? style=for-the-badge&labelColor=000&color=FF6B6B" />
   <br><strong>Heritage Language</strong>
   <br>Fluent in conversation & culture
 </td>
@@ -121,7 +137,7 @@
   <p>
     <img src="https://img.shields.io/badge/C%23-Game_Development-239120?style=flat-square&logo=c-sharp" />
     <img src="https://img.shields.io/badge/Python-AI_Projects-3776AB?style=flat-square&logo=python" />
-    <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-61DAFB?style=flat-square&logo=react" />
+    <img src="https://img.shields. io/badge/Web_Dev-Full_Stack-61DAFB?style=flat-square&logo=react" />
     <img src="https://img.shields.io/badge/Career-Internship_2025-FF6B6B?style=flat-square&logo=handshake" />
   </p>
   
