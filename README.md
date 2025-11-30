@@ -143,7 +143,7 @@
   
   <br><br>
   
-  **"The best code is not just functional, but beautiful, readable, and inspiring."**
+  **"Coding is thinking, debugging is drinking."**
   
   <br>
   
