@@ -62,9 +62,6 @@
   interests: ["Technology & digital innovations",
               "Video games", "Multimedia creation",
               "Music"]
-  
-💫 Personal Motto:
-  quote: "Code with passion, debug with patience"
 ```
 
 </td>
