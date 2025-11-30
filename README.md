@@ -127,8 +127,6 @@
     <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-61DAFB?style=flat-square&logo=react" />
     <img src="https://img.shields.io/badge/Career-Internship_2025-FF6B6B?style=flat-square&logo=handshake" />
   </p>
-
-  <img src="https://osu-sig.vercel.app/card?user=Sus__&mode=std&lang=en&animation=true&hue=360&mini=true" alt="osu! profile card" />
   
   <br><br>
   
@@ -152,5 +150,16 @@
   
   <br>
   
+</div>
+
+---
+
+<div align="center">
+
+  <a href="https://osu.ppy.sh/users/10971401">
+    <img src="https://osu-sig.vercel.app/card?user=Sus__&mode=std&lang=en&animation=true&hue=360&mini=true" alt="osu! profile card" />
+  </a>
+
   ![Wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 </div>
